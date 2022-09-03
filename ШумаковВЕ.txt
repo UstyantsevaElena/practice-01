@@ -1,0 +1,43 @@
+commit d580128dbb49c57ceb3826ce073a6530320862be
+Author: Vyacheslav Shumakov <shum.slav@yandex.ru>
+Date:   Sat Sep 3 11:25:01 2022 +0500
+
+    Мой первый коммит
+
+commit 318a0a3fd9a06f395589d2066d890a21d34b1df2
+Author: Vyacheslav Shumakov <shum.slav@yandex.ru>
+Date:   Sat Sep 3 11:23:20 2022 +0500
+
+    Мой первый коммит
+
+commit b0d83c721bdfab758f726b0cb1426a6931c8cb55
+Author: Vyacheslav Shumakov <shum.slav@yandex.ru>
+Date:   Sat Sep 3 11:19:55 2022 +0500
+
+    Мой четвертый коммит
+
+commit 38ec64cad3a3f4b0f1451bbcb06c56f2dd23ef9a
+Author: Vyacheslav Shumakov <shum.slav@yandex.ru>
+Date:   Sat Sep 3 11:13:30 2022 +0500
+
+    Revert "Измененный второй коммит"
+    
+    This reverts commit ed084ac659d50b3b93988c30c8e300d7848962aa.
+
+commit 8206e53d3354f1411736e90fc0313a86f1b97a63
+Author: Vyacheslav Shumakov <shum.slav@yandex.ru>
+Date:   Sat Sep 3 11:06:24 2022 +0500
+
+    Мой третий коммит
+
+commit ed084ac659d50b3b93988c30c8e300d7848962aa
+Author: Vyacheslav Shumakov <shum.slav@yandex.ru>
+Date:   Sat Sep 3 10:57:06 2022 +0500
+
+    Измененный второй коммит
+
+commit 376d1e0f1e6958ac4f6f818de6be2e4432a0ef29
+Author: Vyacheslav Shumakov <shum.slav@yandex.ru>
+Date:   Sat Sep 3 10:54:50 2022 +0500
+
+    Мой первый коммит
