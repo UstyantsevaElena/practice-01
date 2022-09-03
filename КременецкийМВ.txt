@@ -1,0 +1,43 @@
+commit 2ac94a0dc21b4dc0dc48fc7353574d91b3cee707
+Author: mihakremen <mihakremen@gmail.com>
+Date:   Sat Sep 3 11:07:53 2022 +0500
+
+    added prerelease
+
+commit ba386e9be49be8ba63180b0056d4e6669e500a4d
+Author: mihakremen <mihakremen@gmail.com>
+Date:   Sat Sep 3 11:01:39 2022 +0500
+
+    added test.txt
+
+commit 398aaed9dce8027994c21c6e4c358cad0547bfcc
+Author: mihakremen <mihakremen@gmail.com>
+Date:   Sat Sep 3 10:59:18 2022 +0500
+
+    add gitignore and ignoring file
+
+commit 606f2231cc255e2794d61689b160ec3b4cb11ae5
+Author: mihakremen <mihakremen@gmail.com>
+Date:   Sat Sep 3 10:55:11 2022 +0500
+
+    Revert "added my rate and subject name"
+    
+    This reverts commit 33719edef84df614f5f6cdd9b6fa9d369ba73fba.
+
+commit f1f98280d6d8ef4e57e4e0534e3a5c9677b48b5e
+Author: mihakremen <mihakremen@gmail.com>
+Date:   Sat Sep 3 10:49:18 2022 +0500
+
+    added room number
+
+commit 33719edef84df614f5f6cdd9b6fa9d369ba73fba
+Author: mihakremen <mihakremen@gmail.com>
+Date:   Sat Sep 3 10:40:29 2022 +0500
+
+    added my rate and subject name
+
+commit 1b2424678f2bdd79f7138cde5d050f53964b2d0f
+Author: mihakremen <mihakremen@gmail.com>
+Date:   Sat Sep 3 10:38:14 2022 +0500
+
+    мой первый коммит
