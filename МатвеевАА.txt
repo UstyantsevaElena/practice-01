@@ -1,0 +1,43 @@
+commit 82eaea0b8bc250d6b0c73b86c7844f8a054840d9
+Author: Andrey Matveev <andrewmat2000@gmail.com>
+Date:   Sat Sep 3 09:19:27 2022 +0300
+
+    Добавлен prelease
+
+commit ef41f8f2d7b30017e487709cf1c4d6b0e2993bc7
+Author: Andrey Matveev <andrewmat2000@gmail.com>
+Date:   Sat Sep 3 09:18:37 2022 +0300
+
+    добавлен тест
+
+commit b2ec66a5c273b2b994dae5b0792c9c94977daae5
+Author: Andrey Matveev <andrewmat2000@gmail.com>
+Date:   Sat Sep 3 09:16:17 2022 +0300
+
+    Добавлен gitignore
+
+commit f3064780a10f8cb1a1afe0f289757715537dd9e4
+Author: Andrey Matveev <andrewmat2000@gmail.com>
+Date:   Sat Sep 3 09:14:53 2022 +0300
+
+    Revert "ой скучно"
+    
+    This reverts commit cc8294d3463c8d57dabbce9053ec83a36fe83d39.
+
+commit c3dc60edc621d89d77baa85341d6bb1e560bfa68
+Author: Andrey Matveev <andrewmat2000@gmail.com>
+Date:   Sat Sep 3 08:54:28 2022 +0300
+
+    Добавлен номер аудитории
+
+commit cc8294d3463c8d57dabbce9053ec83a36fe83d39
+Author: Andrey Matveev <andrewmat2000@gmail.com>
+Date:   Sat Sep 3 08:51:30 2022 +0300
+
+    ой скучно
+
+commit e395807e54ca94cc5173f486515c8191b36453e8
+Author: Andrey Matveev <andrewmat2000@gmail.com>
+Date:   Sat Sep 3 08:50:05 2022 +0300
+
+    Мой первый коммит

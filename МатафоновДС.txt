@@ -1,0 +1,43 @@
+commit f1e6152c920f02815e75647cbd81fceaaf542ff8
+Author: Denis Matafonov <dmatafonov2000@mail.ru>
+Date:   Sat Sep 3 11:14:34 2022 +0500
+
+    add prerelease
+
+commit 4d221af9cc3235ed94bfbf65941e912e87e29e67
+Author: Denis Matafonov <dmatafonov2000@mail.ru>
+Date:   Sat Sep 3 11:35:29 2022 +0500
+
+    add test
+
+commit 5998a3c880f5bb7b360210a9c6ceca939b75aacb
+Author: Denis Matafonov <dmatafonov2000@mail.ru>
+Date:   Sat Sep 3 11:11:00 2022 +0500
+
+    add gitignore
+
+commit 50e9eda84d60717c695a1ea6f610b042e60d67f9
+Author: Denis Matafonov <dmatafonov2000@mail.ru>
+Date:   Sat Sep 3 11:05:22 2022 +0500
+
+    Revert "add lesson grade and name"
+    
+    This reverts commit abd4912cbf7dddc9002e53350ef9d22e2f5221b7.
+
+commit 4871d81c9c7d0cd480b5e150c5a73632b51ecd72
+Author: Denis Matafonov <dmatafonov2000@mail.ru>
+Date:   Sat Sep 3 11:01:13 2022 +0500
+
+    add room number
+
+commit abd4912cbf7dddc9002e53350ef9d22e2f5221b7
+Author: Denis Matafonov <dmatafonov2000@mail.ru>
+Date:   Sat Sep 3 10:50:11 2022 +0500
+
+    add lesson grade and name
+
+commit 2f57085d73c345124fb9541654124b27d6f62038
+Author: Denis Matafonov <dmatafonov2000@mail.ru>
+Date:   Sat Sep 3 10:48:30 2022 +0500
+
+    My first commit
