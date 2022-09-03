@@ -1,0 +1,43 @@
+commit 2999f9cdcdf653e584d5b29e7093705ca8659783
+Author: Nikita Kononenko <newu2011@gmail.com>
+Date:   Sat Sep 3 11:13:41 2022 +0500
+
+    Add prerelease.txt
+
+commit e33b96cf66338c11dbb3e8a1013793ae6c265d6a
+Author: Nikita Kononenko <newu2011@gmail.com>
+Date:   Sat Sep 3 11:10:47 2022 +0500
+
+    Add test.txt
+
+commit 996636526b1f6f57c580724f56b04a7223df9362
+Author: Nikita Kononenko <newu2011@gmail.com>
+Date:   Sat Sep 3 11:09:31 2022 +0500
+
+    Add .gitignore with *.tmp to repository
+
+commit 84959bfc241f34a4309915e7df6adc8664f9aa47
+Author: Nikita Kononenko <newu2011@gmail.com>
+Date:   Sat Sep 3 11:07:08 2022 +0500
+
+    Revert "Add class name and difficulty to readme.txt"
+    
+    This reverts commit 40ec1666aa5de45e718fefc091cc87b3e99047c4.
+
+commit e19d57b0096faa4fc748b8b7c3a65e28b733d907
+Author: Nikita Kononenko <newu2011@gmail.com>
+Date:   Sat Sep 3 11:04:09 2022 +0500
+
+    Add classroom number
+
+commit 40ec1666aa5de45e718fefc091cc87b3e99047c4
+Author: Nikita Kononenko <newu2011@gmail.com>
+Date:   Sat Sep 3 11:02:50 2022 +0500
+
+    Add class name and difficulty to readme.txt
+
+commit b8034dab0a906b4ffa27c8b1b3ecc79e0f4fd2e1
+Author: Nikita Kononenko <newu2011@gmail.com>
+Date:   Sat Sep 3 10:49:02 2022 +0500
+
+    My first commit
