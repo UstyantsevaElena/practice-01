@@ -1,0 +1,49 @@
+commit c03dadf45728bbfd86872fa86d83bf755698894e
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 11:16:56 2022 +0500
+
+    Add prerelease.txt to PRELEASE branch
+
+commit 25d7304117327a3e129c839ed2fc0c360af8b57c
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 11:14:10 2022 +0500
+
+    Add test.txt to TEST branch
+
+commit c4c130a50323264243b58ebc2229fac434750264
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 11:09:05 2022 +0500
+
+    Add .gitignore
+
+commit 5fc62daaf75110933a2a3e5b023e5b45efa0edf9
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 11:02:32 2022 +0500
+
+    Revert "second, changed"
+    
+    This reverts commit fe225c79f051ea5be0059fa3ca2956a388378b03.
+
+commit 3702b09b149e1b05c4b5257b6a8f8fa65db48134
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 10:53:54 2022 +0500
+
+    Extra third
+
+commit 330589b6db0500cac17393615de59f05b33e0994
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 10:51:42 2022 +0500
+
+    third
+
+commit fe225c79f051ea5be0059fa3ca2956a388378b03
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 10:44:20 2022 +0500
+
+    second, changed
+
+commit add35982bc0770848636629a0f1690f454acf0dc
+Author: Vladimir Kazakov <vova-kazakov-00@mail.ru>
+Date:   Sat Sep 3 10:41:33 2022 +0500
+
+    Мой первый коммит

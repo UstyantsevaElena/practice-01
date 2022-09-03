@@ -1,0 +1,43 @@
+commit 61e2a5e9768651abdd62787f61aa61902ec10592
+Author: Vaskov Semyon <vaskovsyoma@yandex.ru>
+Date:   Sat Sep 3 11:49:11 2022 +0500
+
+    add prerelease
+
+commit 4f74a51253371a8b6fb8512d9e15675012d2bc67
+Author: Vaskov Semyon <vaskovsyoma@yandex.ru>
+Date:   Sat Sep 3 11:47:20 2022 +0500
+
+    add text
+
+commit 362ad6190957fa91fb79fbf2376a08523921ea03
+Author: Vaskov Semyon <vaskovsyoma@yandex.ru>
+Date:   Sat Sep 3 11:44:44 2022 +0500
+
+    add gitignore
+
+commit 6999ac8be6831320bcfadf9da441184628c0a2e4
+Author: Vaskov Semyon <vaskovsyoma@yandex.ru>
+Date:   Sat Sep 3 11:37:26 2022 +0500
+
+    Revert "Оценка текущего статуса по шкале"
+    
+    This reverts commit 13f4e4f6e0fa5753d6f1b18be3c28c48b9f99db0.
+
+commit 931afd0377d73f88860901b311383e38c9ee4a18
+Author: Vaskov Semyon <vaskovsyoma@yandex.ru>
+Date:   Sat Sep 3 11:24:03 2022 +0500
+
+    Добавление номера аудитории
+
+commit 13f4e4f6e0fa5753d6f1b18be3c28c48b9f99db0
+Author: Vaskov Semyon <vaskovsyoma@yandex.ru>
+Date:   Sat Sep 3 11:12:46 2022 +0500
+
+    Оценка текущего статуса по шкале
+
+commit 35cf0d23bc511975defbaa190eeef09075fedc26
+Author: Vaskov Semyon <vaskovsyoma@yandex.ru>
+Date:   Sat Sep 3 11:06:13 2022 +0500
+
+    Мой первый коммит
