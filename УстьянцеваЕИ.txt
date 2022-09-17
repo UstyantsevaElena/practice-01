@@ -1,0 +1,37 @@
+commit fb1584ea63b3df41004f1eb2762c0fbdc83c1193
+Author: Устьянцева Елена <lena_ustyantseva@mail.ru>
+Date:   Sat Sep 3 12:07:11 2022 +0500
+
+    Добавлен файл пререлиз
+
+commit 26d98cdfb3c159b0315304108f917413cd71e802
+Author: Устьянцева Елена <lena_ustyantseva@mail.ru>
+Date:   Sat Sep 3 11:55:58 2022 +0500
+
+    Добавлен гитигнор
+
+commit e6a0d5ff6571a635309acbd90f79375373f8445f
+Author: Устьянцева Елена <lena_ustyantseva@mail.ru>
+Date:   Sat Sep 3 11:43:14 2022 +0500
+
+    Revert "Мой исправленный коммит"
+    
+    This reverts commit 6d4405dfe76b663705c8730b53172c9989df1f06.
+
+commit 5e19fad45ed0d0d88966268b50c837bcf78d0204
+Author: Устьянцева Елена <lena_ustyantseva@mail.ru>
+Date:   Sat Sep 3 11:29:43 2022 +0500
+
+    Мой третий коммит
+
+commit 6d4405dfe76b663705c8730b53172c9989df1f06
+Author: Устьянцева Елена <lena_ustyantseva@mail.ru>
+Date:   Sat Sep 3 11:15:47 2022 +0500
+
+    Мой исправленный коммит
+
+commit 4eef86959f4c36ca927d999ded7b5f608c063dcc
+Author: Устьянцева Елена <lena_ustyantseva@mail.ru>
+Date:   Sat Sep 3 11:11:49 2022 +0500
+
+    Мой первый коммит

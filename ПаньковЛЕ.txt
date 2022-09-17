@@ -1,0 +1,37 @@
+commit e80ff79975043ddae21babe859c20f001e1f9e42
+Author: Паньков Лев <carzverey@gmail.com>
+Date:   Sat Sep 3 11:49:13 2022 +0500
+
+    realease
+
+commit 8c7a52ad9f36a413a4ea63a93b8864066ce31ed5
+Author: Паньков Лев <carzverey@gmail.com>
+Date:   Sat Sep 3 11:40:25 2022 +0500
+
+    Конфликт
+
+commit 7589343628e007520cbeeda071ad9e23a38dd444
+Author: Паньков Лев <carzverey@gmail.com>
+Date:   Sat Sep 3 11:21:23 2022 +0500
+
+    Revert "Оценка работы"
+    
+    This reverts commit c269318f94eadf2df8e2ea527c829ec6a04abe4b.
+
+commit f02ed23f6c7d2854f258a8034857f7e6d1a8740c
+Author: Паньков Лев <carzverey@gmail.com>
+Date:   Sat Sep 3 11:06:07 2022 +0500
+
+    Аудитория
+
+commit c269318f94eadf2df8e2ea527c829ec6a04abe4b
+Author: Паньков Лев <carzverey@gmail.com>
+Date:   Sat Sep 3 10:59:08 2022 +0500
+
+    Оценка работы
+
+commit 073d9476be1d2b6ddbcea0f94922b982c721e75d
+Author: Паньков Лев <carzverey@gmail.com>
+Date:   Sat Sep 3 10:54:53 2022 +0500
+
+    My first commit
